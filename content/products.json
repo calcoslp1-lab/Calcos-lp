@@ -13,12 +13,12 @@
     },
     {
       "badge": "POPULAR",
-      "price": "$25.000",
+      "price": "$65.000",
       "name": "Cuadro Money",
       "featured": true,
       "visible": true,
       "id": "money",
-      "image": "/assets/money.png",
+      "image": "/assets/uploads/1000406969.png",
       "description": "Diseño inspirado en dinero, negocios y actitud.",
       "category": "cuadros"
     },
