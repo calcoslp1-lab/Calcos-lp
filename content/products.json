@@ -58,11 +58,11 @@
     {
       "badge": "",
       "price": "$6.000",
-      "name": "Plancha Mixta",
+      "name": "Planchas",
       "featured": false,
       "visible": true,
       "id": "mixta",
-      "image": "/assets/mixta.png",
+      "image": "/assets/uploads/1000403624.png",
       "description": "Diseños variados con alto contraste.",
       "category": "planchas"
     },
@@ -73,7 +73,7 @@
       "featured": false,
       "visible": true,
       "id": "logi",
-      "image": "/assets/logi.png",
+      "image": "/assets/uploads/1000406747.png",
       "description": "Calco individual. Tamaño y color a elección.",
       "category": "personalizados"
     },
