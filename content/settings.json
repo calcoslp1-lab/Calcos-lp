@@ -1,12 +1,12 @@
 {
+  "heroImage": "/assets/uploads/1000406754.jpg",
+  "heroText": "Calcos, planchas, cuadros y diseños personalizados. Elegí un diseño o mandanos tu idea y la convertimos en un trabajo listo para destacar.",
   "brand": "CALCOS LP",
-  "whatsapp": "542664191027",
   "phone": "2664 191027",
   "heroEyebrow": "DISEÑO · IMPRESIÓN · PERSONALIZACIÓN",
-  "heroTitle": "DISEÑOS QUE DESTACAN.",
-  "heroText": "Calcos, planchas, cuadros y diseños personalizados. Elegí un diseño o mandanos tu idea y la convertimos en un trabajo listo para destacar.",
-  "heroImage": "/assets/led_duo.png",
+  "whatsapp": "542664191027",
+  "instagram": "Calcoslp.01",
   "customPrice": "Desde $4.000",
-  "instagram": "",
-  "shippingText": "Consultá disponibilidad y costo de envío según destino."
+  "shippingText": "Consultá disponibilidad y costo de envío según destino.",
+  "heroTitle": "DISEÑOS QUE DESTACAN."
 }
