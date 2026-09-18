@@ -2,7 +2,7 @@
   "products": [
     {
       "badge": "DESTACADO",
-      "price": "$25.000",
+      "price": "$55.000",
       "name": "Cuadro Tony Montana ",
       "featured": true,
       "visible": true,
@@ -68,7 +68,7 @@
     },
     {
       "badge": "",
-      "price": "Desde $4.000",
+      "price": "Desde $1.500",
       "name": "Calco “Qué mirás, logi?”",
       "featured": false,
       "visible": true,
