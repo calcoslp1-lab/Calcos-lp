@@ -40,7 +40,7 @@
       "featured": true,
       "visible": true,
       "id": "tornasol",
-      "image": "/assets/tornasol.png",
+      "image": "/assets/uploads/1000406745.png",
       "description": "Plancha de stickers con acabado tornasolado según diseño.",
       "category": "planchas"
     },
@@ -51,7 +51,7 @@
       "featured": false,
       "visible": true,
       "id": "gaming",
-      "image": "/assets/gaming.png",
+      "image": "/assets/uploads/1000407071.png",
       "description": "Controles, gaming, frases y cultura gamer.",
       "category": "gaming"
     },
