@@ -3,7 +3,7 @@ backend:
   turbo_site_id: "6708e0f5-0f35-4719-8901-535ad0ac666a"
   branch: main
 
-site_url: https://calcos-lp.netlify.app
+site_url: https://calcos-lp.pages.dev
 logo:
   src: "/assets/logo.jpg"
   show_in_header: true
