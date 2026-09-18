@@ -4,6 +4,9 @@ backend:
   branch: main
 
 site_url: https://calcos-lp.netlify.app
+logo:
+  src: "/assets/logo.jpg"
+  show_in_header: true
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
@@ -31,8 +34,9 @@ collections:
 
   - name: products
     label: "Productos"
+    description: "Editá el catálogo y mirá una vista previa visual del producto."
     editor:
-      preview: false
+      preview: true
     files:
       - label: "Catálogo"
         name: catalog
