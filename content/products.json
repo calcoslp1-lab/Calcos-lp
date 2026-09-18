@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "scarface",
+      "name": "Cuadro Scarface",
+      "category": "cuadros",
+      "image": "/assets/scarface.jpg",
+      "price": "$25.000",
+      "description": "Cuadro decorativo de alto impacto. Medidas a consultar.",
+      "featured": true,
+      "badge": "DESTACADO",
+      "visible": true
+    },
+    {
+      "id": "money",
+      "name": "Cuadro Money",
+      "category": "cuadros",
+      "image": "/assets/money.png",
+      "price": "$25.000",
+      "description": "Diseño inspirado en dinero, negocios y actitud.",
+      "featured": true,
+      "badge": "POPULAR",
+      "visible": true
+    },
+    {
+      "id": "led",
+      "name": "Cuadros LED",
+      "category": "cuadros",
+      "image": "/assets/led_duo.png",
+      "price": "Consultar",
+      "description": "Composiciones LED. Diferentes diseños y medidas.",
+      "featured": true,
+      "badge": "PREMIUM",
+      "visible": true
+    },
+    {
+      "id": "tornasol",
+      "name": "Plancha Tornasolada",
+      "category": "planchas",
+      "image": "/assets/tornasol.png",
+      "price": "$6.000",
+      "description": "Plancha de stickers con acabado tornasolado según diseño.",
+      "featured": true,
+      "badge": "NUEVO",
+      "visible": true
+    },
+    {
+      "id": "gaming",
+      "name": "Plancha Gaming",
+      "category": "gaming",
+      "image": "/assets/gaming.png",
+      "price": "$6.000",
+      "description": "Controles, gaming, frases y cultura gamer.",
+      "featured": false,
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "mixta",
+      "name": "Plancha Mixta",
+      "category": "planchas",
+      "image": "/assets/mixta.png",
+      "price": "$6.000",
+      "description": "Diseños variados con alto contraste.",
+      "featured": false,
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "logi",
+      "name": "Calco “Qué mirás, logi?”",
+      "category": "personalizados",
+      "image": "/assets/logi.png",
+      "price": "Desde $4.000",
+      "description": "Calco individual. Tamaño y color a elección.",
+      "featured": false,
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "pack-gaming",
+      "name": "Pack Gaming",
+      "category": "packs",
+      "image": "/assets/controller.png",
+      "price": "Consultar",
+      "description": "Diseños gamer para armar tu pack.",
+      "featured": true,
+      "badge": "PACK",
+      "visible": true
+    },
+    {
+      "id": "logo",
+      "name": "Diseño de Logo",
+      "category": "personalizados",
+      "image": "/assets/logo.jpg",
+      "price": "Consultar",
+      "description": "Tu marca, emprendimiento o identidad convertida en calco.",
+      "featured": false,
+      "badge": "",
+      "visible": true
+    }
+  ]
+}
